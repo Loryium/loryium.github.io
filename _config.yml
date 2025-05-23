@@ -10,8 +10,8 @@ url: http://streetturtle.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Loryium
+copyright: 2015-2025
 
 share:
   facebook: false
@@ -22,11 +22,11 @@ share:
   email: false
 
 social:
-  github: streetturtle
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
+  github: Loryium
+#  stackoverflow: ''
+#  linkedin:
+#  instagram: ''
+#  lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
