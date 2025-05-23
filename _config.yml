@@ -55,3 +55,6 @@ kramdown:
   hard_wrap: true
 
 exclude: ['README.md', 'LICENSE']
+
+include:
+  - assets/fontawesome/webfonts
