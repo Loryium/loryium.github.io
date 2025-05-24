@@ -60,3 +60,5 @@ include:
   - assets/fontawesome/webfonts
 
 timezone: Asia/Shanghai
+
+future: true
