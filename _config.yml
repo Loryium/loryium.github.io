@@ -58,3 +58,5 @@ exclude: ['README.md', 'LICENSE']
 
 include:
   - assets/fontawesome/webfonts
+
+timezone: Asia/Shanghai
