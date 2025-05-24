@@ -3,7 +3,6 @@ layout: post
 title: My First Article
 date: 2025-05-24 12:46
 description: Just a new topic i think...
-toc: false
 ---
 
 第一篇文章就是第一篇文章，其实什么东西大概都没有
