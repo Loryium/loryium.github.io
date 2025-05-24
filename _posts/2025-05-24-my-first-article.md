@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Article
+title: "My First Article"
 date: 2025-05-24 12:46
 description: Just a new topic i think...
 ---
